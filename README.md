@@ -1,5 +1,11 @@
 # Expense Tracker with React
 
+First app using React. Demonstrates conceptual knowledge of key React features.
+
+## Personal Note
+
+At first, React posed a significant challenge. After struggling to initiate the boilerplate app using React's tutorial and deploy it using Heroku, I took some time to look over the code and find useful patterns. The end result was functional and implemented as many "best practices" as possible. I can see how React could be used in a variety of circumstances.   
+
 ## Summary
 
 [See the Live Render](https://expensetracker-react-bhall.herokuapp.com/)
