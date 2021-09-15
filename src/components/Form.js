@@ -99,6 +99,7 @@ const Form = ({ handleSubmit, handleChange, state }) => {
         </div>
       </div>
     </form>
+    <br/>
     </div>
   )
 }
