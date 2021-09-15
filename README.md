@@ -1,8 +1,42 @@
-# Getting Started with Create React App
+# Expense Tracker with React
+
+## Summary
+
+[See the Live Render](https://expensetracker-react-bhall.herokuapp.com/)
+
+![image](https://user-images.githubusercontent.com/80381428/133516508-5123ba1b-1ac8-4bab-84b8-43cf6a060e4e.png)
+
+- This app use React to structure component elements and render information in real time. It also utilizes local storage to save data between instances.
+
+- This project is a good example of:
+
+FUNCTIONS:
+ - Import
+ - Lifecycle
+   - componentDidMount()
+   - componentDidUpdate()
+ - State/Props
+
+CONCEPTS:
+- Component Structure
+  - Class-Based Components
+  - Functional Components
+  - Lifecycle Methods
+- Event/Submit handling
+- Rest/Spread Operator
+- Passing props (state and functions) to lower levels
+  - Deconstructed props for readability
+- Using "state" to update key information
+- Referencing an array in "state"
+- Using BootStrap 5 to format elements
+
+## Author
+Brendon Hall - Full Stack Software Developer [LinkedIn](https://www.linkedin.com/in/brendonphall/)
+
+
+## Other React Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
